@@ -1,23 +1,42 @@
 Add A Photo of You
 
+<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Hosted by imgur.com" /></a>
+
 Information to add:
-- Your Name
-- Github Username with a link to your public profile
-- Twitter Username with a link to your public profile
-- Favorite Core Value
 
-If you could put your life into a sentence, what would it be?
+- Your Name Daniel Richter
+- Github Username with a link to your public profile https://github.com/danielirichter
+- Twitter Username with a link to your public profile https://twitter.com/danielrichter
+- Favorite Core Value 
 
-What's your favorite quote?
+If you could put your life into a sentence, what would it be? 
 
-Tell us three things about you.
+What's your favorite quote? Something by Mr. Rogers
+
+Tell us three things about you. 
+
+I make music. I drink beer. I like to talk too much.
 
 What's something you're good at that can be explained in a few steps?
 
+
+
 What are your top 3 favorite movies?
+
+Blues Brothers
+
+The Muppet Movie
+
+
 
 Who are your best friends, in order from most best to least best? (You can make this up!)
 
+Colette Dubicki, Ethan Starkweather, Chris Piro, Christian Gugino, Andrew Dizon 
+
 What Languages (Spoken and Programming) do you know (in order from strongest to least strong)?
 
+English, Hawaiian, HTML, CSS
+
 What's your favorite Candy?
+
+Bar none bar
