@@ -1,1 +1,23 @@
-hello world
+Add A Photo of You
+
+Information to add:
+- Your Name
+- Github Username with a link to your public profile
+- Twitter Username with a link to your public profile
+- Favorite Core Value
+
+If you could put your life into a sentence, what would it be?
+
+What's your favorite quote?
+
+Tell us three things about you.
+
+What's something you're good at that can be explained in a few steps?
+
+What are your top 3 favorite movies?
+
+Who are your best friends, in order from most best to least best? (You can make this up!)
+
+What Languages (Spoken and Programming) do you know (in order from strongest to least strong)?
+
+What's your favorite Candy?
