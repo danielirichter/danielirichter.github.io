@@ -1,6 +1,6 @@
 Add A Photo of You
 
-<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Hosted by imgur.com" /></a>
+<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Me." /></a>
 
 Information to add:
 
@@ -19,7 +19,7 @@ I make music. I drink beer. I like to talk too much.
 
 What's something you're good at that can be explained in a few steps?
 
-
+Grilled Cheese
 
 What are your top 3 favorite movies?
 
@@ -27,7 +27,7 @@ Blues Brothers
 
 The Muppet Movie
 
-
+Ip Man
 
 Who are your best friends, in order from most best to least best? (You can make this up!)
 
