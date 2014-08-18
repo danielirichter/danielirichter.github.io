@@ -1,6 +1,6 @@
 Add A Photo of You
 
-<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Hosted by imgur.com" /></a>
+<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Me." /></a>
 
 Information to add:
 
