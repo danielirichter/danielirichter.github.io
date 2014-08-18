@@ -1,6 +1,6 @@
 Add A Photo of You
 
-<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Me." /></a>
+<a href="http://imgur.com/gKbCmL8"><img src="http://i.imgur.com/gKbCmL8.jpg" title="Hosted by imgur.com" /></a>
 
 Information to add:
 
@@ -11,7 +11,7 @@ Information to add:
 
 If you could put your life into a sentence, what would it be? 
 
-What's your favorite quote? Something by Mr. Rogers
+What's your favorite quote? Simple is good. - Jim Henson
 
 Tell us three things about you. 
 
@@ -39,4 +39,4 @@ English, Hawaiian, HTML, CSS
 
 What's your favorite Candy?
 
-Kazoozles
+Bar none bar
