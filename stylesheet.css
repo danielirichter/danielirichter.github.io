@@ -1,12 +1,9 @@
-.header {
-    border-radius: 5px;
-}
-#left {
-    border-radius: 5px;
-}
-#right {
-    border-radius: 5px;
-}
-.footer {
-    border-radius: 5px;
+div { 
+    height: 300px;
+    width: 400px;
+    background-color:#ee3e80;}
+p   {
+    height: 75%;
+    width: 75%;
+    background-color:#elddda;
 }
