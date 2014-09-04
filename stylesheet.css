@@ -8,3 +8,8 @@ p   {
     background-color:#elddda;
     border: 4px solid #0088dd;
 }
+
+li  {
+    display: inline;
+    margin-right: 10px;
+}
