@@ -1,5 +1,6 @@
 danielirichter.github.io
 ========================
+[danielichter.github.com](http://www.danielirichter.github.com)
 
 # This is the markdown page for danielrichter.github.com
 
