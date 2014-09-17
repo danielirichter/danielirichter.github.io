@@ -1,8 +1,8 @@
 danielirichter.github.io
 ========================
-[danielichter.github.com](http://www.danielirichter.github.com)
+[danielichter.github.com](http://www.danielirichter.github.io)
 
-# This is the markdown page for danielrichter.github.com
+# This is the markdown page for danielrichter.github.io
 
 __My Name is Daniel__
 
