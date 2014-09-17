@@ -4,6 +4,4 @@ danielirichter.github.io
 
 # This is the markdown page for danielrichter.github.io
 
-__My Name is Daniel__
-
-# Let's have some fun!
+# My Name is Daniel
