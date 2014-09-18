@@ -1,14 +1,3 @@
-div { 
-    height: 300px;
-    width: 400px;
-    background-color:#ee3e80;}
-p   {
-    height: 100%;
-    width: 100%;
-    background-color:#elddda;
-    border: 4px solid #0088dd;
-}
-
 li  {
     display: inline;
     margin-right: 10px;
