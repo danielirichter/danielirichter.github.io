@@ -1,5 +1,5 @@
 danielirichter.github.io
 ========================
-[danielichter.github.io](http://www.danielirichter.github.io)
+[danielichter.github.io](http://danielirichter.github.io)
 
 
