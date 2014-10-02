@@ -19,6 +19,16 @@ ul.nav {
 +  text-decoration: none;
 +}
 +
-+ul.nav li a {
-+  text-decoration: none;
+ ul.nav li a {
+   text-decoration: none;
++padding: 10px;
++display: block;
++font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
++font-size: 12px;
++font-weight: bold;
++color: rgb(58, 58, 58);
++}
++
++ul.nav li a:hover {
++  background: #F9F9F9;
  }
